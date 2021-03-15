@@ -17,4 +17,4 @@ An App a Month is a a mega course where a user can build one cool project in a m
 
 ***Glad to see you here! Show some love by [starring](https://github.com/TheLeanProgrammer/aam-dev) this repo.***
 
-[![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@theleanprogrammer&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/theleanprogrammer/)) 
+[![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@theleanprogrammer&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/theleanprogrammer/) 
