@@ -1,5 +1,5 @@
 import React from 'react'
-
+import "./WhyReact.css";
 const WhyReact = () => {
     return (
         <div>

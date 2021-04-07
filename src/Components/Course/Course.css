@@ -22,7 +22,7 @@
   mix-blend-mode: normal;
 }
 
-.second-headline {
+.second-headline h2 {
   font-family: Poppins;
   font-style: normal;
   font-weight: 500;
@@ -31,4 +31,15 @@
   text-align: center;
   letter-spacing: 0.2px;
   color: #000000;
+}
+
+.second-headline h2::before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    width: 60px;
+    height: 2px;
+    background: #000000;
+    bottom: 10px;
+    margin-left: -30px;
 }
