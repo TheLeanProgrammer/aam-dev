@@ -1,7 +1,40 @@
-.footer{
-    background-color: #E5E5E5;
+.footer {
+  background-color: #e5e5e5;
 }
 
-.copyright{
-    background-color: #fff;
+.copyright {
+  background-color: #fff;
+}
+
+.social-media-icons {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+p {
+  margin-bottom: 0px !important;
+  font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+color: #252B42;
+}
+
+p .text-style-1{
+    font-size: 20px;
+}
+
+p .text-style-2{
+    font-size: 18px;
+}
+
+.footer-headings {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 24px;
+  letter-spacing: -0.015em;
+  color: #000000;
 }
